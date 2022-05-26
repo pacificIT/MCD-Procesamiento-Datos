@@ -14,7 +14,7 @@ Repo para clase de procesamiento de datos MCD - UANL
 
 
 
-[Tarea 2 - Archivos](https://github.com/pacificIT/MCD-Procesamiento-Datos/tree/main/T2)
+[Tarea 2 - Analisis de Sentimiento - Archivos](https://github.com/pacificIT/MCD-Procesamiento-Datos/tree/main/T2)
 
 - [Codigo](https://github.com/pacificIT/MCD-Procesamiento-Datos/blob/main/T2/AlderLopez-Analisis_de_sentimiento-v1.ipynb)
 
