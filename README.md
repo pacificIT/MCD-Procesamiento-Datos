@@ -22,3 +22,11 @@ Repo para clase de procesamiento de datos MCD - UANL
 
 - [PDF](https://github.com/pacificIT/MCD-Procesamiento-Datos/blob/main/T2/AlderLopez-Tarea2-ProcesamientoDeTexto.pdf)
 
+
+[Tarea 3 - Predicciones - Archivos](https://github.com/pacificIT/MCD-Procesamiento-Datos/tree/main/T3)
+
+- [Codigo](https://github.com/pacificIT/MCD-Procesamiento-Datos/blob/main/T3/AlderLopez_T_3_Prediccion.ipynb)
+
+- [Datos](https://github.com/pacificIT/MCD-Procesamiento-Datos/blob/main/T3/AlderLopez_T_3_Prediccion.ipynb)
+
+- [PDF](https://github.com/pacificIT/MCD-Procesamiento-Datos/blob/main/T3/AlderLopez-Tarea3-predicciones.pdf)
